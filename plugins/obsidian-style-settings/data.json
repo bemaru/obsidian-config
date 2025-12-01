@@ -13,5 +13,6 @@
   "minimal-style@@h5-size": "1em",
   "minimal-style@@h6-size": "0.9em",
   "minimal-style@@bg1@@dark": "#191919",
-  "minimal-style@@code-background@@dark": "#1D1D1D"
+  "minimal-style@@code-background@@dark": "#1D1D1D",
+  "minimal-style@@tx1@@dark": "#E9E5E7"
 }
