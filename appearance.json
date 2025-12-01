@@ -1,1 +1,9 @@
-{}
+{
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
+}
