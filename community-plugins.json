@@ -3,5 +3,8 @@
   "obsidian-style-settings",
   "highlightr-plugin",
   "dataview",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-custom-attachment-location"
 ]
