@@ -11,10 +11,14 @@
             "id": "909bd1d32fe19a1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Projects/ESTsecurity/2025-02 ~ EDR2/2025/업무/2025-11 AI Agent 개발/2025-11 AI Agent 기능 개발.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-11 AI Agent 기능 개발"
             }
           }
         ]
