@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔖",
+      "LiBookmark",
+      "SiGit",
       "LiSearch",
-      "✅",
-      "SiObsidian",
-      "LiGitlab",
-      "FabGitAlt"
+      "✅"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,11 +38,12 @@
   "40_Archives": "📦",
   "30_Resources": "📚",
   "20_Areas": "🗺",
-  "20_Areas/300_Tools/Git": "FabGitAlt",
   "20_Areas/300_Tools/GitLab": "LiGitlab",
   "20_Areas/300_Tools/Obsidian": "SiObsidian",
   "20_Areas/200_Platforms_and_OS/OpenSearch": {
     "iconName": "LiSearch",
     "iconColor": "#183c91"
-  }
+  },
+  "20_Areas/300_Tools/Git": "SiGit",
+  "20_Areas/300_Tools/Git/_Git_명령어_즐겨찾기.md": "🔖"
 }
