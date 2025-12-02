@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSearch",
+      "✅",
       "SiObsidian",
       "LiGitlab",
-      "FabGitAlt",
-      "🧠",
-      "🗺"
+      "FabGitAlt"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
@@ -40,5 +40,9 @@
   "20_Areas": "🗺",
   "20_Areas/300_Tools/Git": "FabGitAlt",
   "20_Areas/300_Tools/GitLab": "LiGitlab",
-  "20_Areas/300_Tools/Obsidian": "SiObsidian"
+  "20_Areas/300_Tools/Obsidian": "SiObsidian",
+  "20_Areas/200_Platforms_and_OS/OpenSearch": {
+    "iconName": "LiSearch",
+    "iconColor": "#183c91"
+  }
 }
