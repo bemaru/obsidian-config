@@ -5,6 +5,7 @@
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
-  "nativeMenus": false
+  "baseFontSize": 13,
+  "nativeMenus": false,
+  "enabledCssSnippets": []
 }
