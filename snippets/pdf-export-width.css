@@ -1,0 +1,18 @@
+/* ===== Screen (Editor & Reading view) ===== */
+.markdown-source-view,
+.markdown-preview-view {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+/* ===== PDF Export (Print) ===== */
+@media print {
+  .markdown-preview-view {
+    max-width: 720px !important;
+    margin: 0 auto !important;
+  }
+
+  body {
+    --file-line-width: 720px;
+  }
+}

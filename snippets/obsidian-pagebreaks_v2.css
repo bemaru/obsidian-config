@@ -1,0 +1,59 @@
+/**
+ Create pagebreaks in exported Obsidian PDFs.
+*/
+
+@media print {
+
+  /* ===============================
+     Heading color (PDF only)
+     =============================== */
+
+  h1 {
+    color: #000000;
+  }
+
+  h2 {
+    color: #1a1a1a;
+  }
+
+  h3 {
+    color: #2b2b2b;
+    page-break-after: avoid;
+  }
+
+  h4 {
+    color: #3d3d3d;
+    page-break-after: avoid;
+  }
+
+  h5 {
+    color: #4f4f4f;
+  }
+
+  h6 {
+    color: #616161;
+  }
+
+  /* ===============================
+     Page break rules
+     =============================== */
+
+  pre,
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  /*
+    CSS cannot target HTML comment nodes like `<!-- pagebreak -->`.
+    Use an explicit marker element next to the comment, e.g.:
+    `<!-- pagebreak --><div class="pagebreak"></div>`
+  */
+  .pagebreak {
+    display: block;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    break-after: page;
+    page-break-after: always;
+  }
+}

@@ -8,10 +8,10 @@
   "lineWidth": 80,
   "lineWidthWide": 50,
   "maxWidth": 88,
-  "textNormal": 13,
+  "textNormal": 11,
   "textSmall": 12,
   "imgGrid": true,
-  "imgWidth": "img-wide",
+  "imgWidth": "img-default-width",
   "tableWidth": "table-default-width",
   "iframeWidth": "iframe-default-width",
   "mapWidth": "map-default-width",
@@ -29,6 +29,6 @@
   "underlineExternal": true,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "devBlockWidth": false
 }

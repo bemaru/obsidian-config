@@ -1,0 +1,14 @@
+/* Mermaid – always fully visible */
+.mermaid {
+  max-width: 100%;
+  overflow: visible;
+}
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}
+
+.mermaid text {
+  white-space: normal;
+}

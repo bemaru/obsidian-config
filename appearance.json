@@ -1,11 +1,20 @@
 {
-  "cssTheme": "Things",
-  "theme": "obsidian",
-  "textFontFamily": "",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "textFontFamily": "맑은 고딕",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 13,
+  "baseFontSize": 11,
   "nativeMenus": false,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "obsidian-pagebraks",
+    "obsidian-mermaid-layout",
+    "minimal-spacing-fix",
+    "pdf-export-width",
+    "obsidian-pagebreaks_v2",
+    "h2-divider-print"
+  ],
+  "accentColor": "#499ac5",
+  "showViewHeader": true
 }

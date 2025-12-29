@@ -1,0 +1,61 @@
+/**
+ Create pagebreaks in exported Obsidian PDFs.
+*/
+
+@media print {
+
+  /* ===============================
+     Heading color (PDF only)
+     =============================== */
+
+  h1 {
+    color: #000000;
+  }
+
+  h2 {
+    color: #1a1a1a;
+    page-break-before: always; /* 기존 규칙 유지 */
+  }
+
+  h3 {
+    color: #2b2b2b;
+    page-break-after: avoid;
+  }
+
+  h4 {
+    color: #3d3d3d;
+    page-break-after: avoid;
+  }
+
+  h5 {
+    color: #4f4f4f;
+  }
+
+  h6 {
+    color: #616161;
+  }
+
+  /* ===============================
+     Page break rules
+     =============================== */
+
+  pre,
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  /* use double <hr> ('---') to indicate a page break */
+  hr + hr {
+    page-break-before: always;
+    visibility: hidden;
+  }
+
+  :not(hr) + hr {
+    visibility: hidden;
+  }
+
+  :not(hr) + hr + :not(hr):not(h2) {
+    border-top: 1px solid black;
+    padding-top: 2em;
+  }
+}

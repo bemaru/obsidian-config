@@ -8,5 +8,11 @@
   "minimal-style@@h6-size": "0.9em",
   "minimal-style@@tx1@@dark": "#E9E5E7",
   "minimal-style@@image-muted": 1,
-  "things-style@@fancy-highlight": false
+  "things-style@@fancy-highlight": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-notion-dark",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
+  "minimal-style@@h2-l": true
 }
