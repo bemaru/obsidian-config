@@ -8,7 +8,7 @@ body {
 
     /* heading top spacing (tweak per level) */
     --h1-top-spacing: calc(var(--p-spacing-empty) * 2.5);
-    --h2-top-spacing: calc(var(--p-spacing-empty) * 5);
+    --h2-top-spacing: calc(var(--p-spacing-empty) * 4);
     --h3-top-spacing: calc(var(--p-spacing-empty) * 2.5);
     --h4-top-spacing: calc(var(--p-spacing-empty) * 1);
     --h5-top-spacing: var(--p-spacing-empty);
