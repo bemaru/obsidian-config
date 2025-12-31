@@ -5,7 +5,7 @@
   "darkScheme": "minimal-default-dark",
   "editorFont": "",
   "lineHeight": 1.5,
-  "lineWidth": 80,
+  "lineWidth": 58,
   "lineWidthWide": 50,
   "maxWidth": 88,
   "textNormal": 11,
@@ -25,10 +25,10 @@
   "bordersToggle": true,
   "minimalStatus": true,
   "focusMode": false,
-  "underlineInternal": true,
-  "underlineExternal": true,
+  "underlineInternal": false,
+  "underlineExternal": false,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "devBlockWidth": false
 }
