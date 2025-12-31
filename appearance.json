@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "textFontFamily": "맑은 고딕",
+  "textFontFamily": "나눔고딕",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSizeAction": true,
@@ -11,9 +11,17 @@
     "obsidian-pagebraks",
     "obsidian-mermaid-layout",
     "minimal-spacing-fix",
-    "pdf-export-width",
     "obsidian-pagebreaks_v2",
-    "h2-divider-print"
+    "h2-divider-print",
+    "heading-table-spacing",
+    "obsidian-page-breaks",
+    "obsidian-code-block-theme-light.css",
+    "markdown-heading-divider-print",
+    "code-block",
+    "theme-minimal-spacing-fix",
+    "obsidian-page-breaks-print",
+    "obsidian-theme-minimal-typography",
+    "obsidian-code-block-theme-light"
   ],
   "accentColor": "#499ac5",
   "showViewHeader": true

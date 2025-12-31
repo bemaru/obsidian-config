@@ -1,0 +1,32 @@
+/* =========================================================
+ * Obsidian · Light theme · Dark code block (GitHub Dark)
+ * Scope : code block only
+ * Affects: Reading View + Live Preview (CM6)
+ * ========================================================= */
+
+/* ---------- Reading View ---------- */
+.theme-light .markdown-rendered pre {
+    --code-background: #0f1117;   /* GitHub Dark bg */
+    --code-normal:     #c9d1d9;   /* base text */
+    --code-comment:    #8b949e;   /* comment */
+    --code-keyword:    #ff7b72;   /* keyword */
+    --code-function:   #7ee787;   /* function */
+    --code-property:   #79c0ff;   /* property / method */
+    --code-important:  #d29922;   /* decorator / important */
+}
+
+/* ---------- Live Preview (CM6) ---------- */
+.theme-light .mod-cm6 .HyperMD-codeblock {
+    --code-background: #0f1117;
+    --code-normal:     #c9d1d9;
+    --code-comment:    #8b949e;
+    --code-keyword:    #ff7b72;
+    --code-function:   #7ee787;
+    --code-property:   #79c0ff;
+    --code-important:  #d29922;
+}
+
+/* ---------- Caret (code block only) ---------- */
+.theme-light .mod-cm6 .cm-line.HyperMD-codeblock {
+    caret-color: #ffb454; /* subtle amber */
+}

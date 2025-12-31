@@ -9,7 +9,7 @@ body {
     /* heading top spacing (tweak per level) */
     --h1-top-spacing: calc(var(--p-spacing-empty) * 2.5);
     --h2-top-spacing: calc(var(--p-spacing-empty) * 5);
-    --h3-top-spacing: calc(var(--p-spacing-empty) * 1.5);
+    --h3-top-spacing: calc(var(--p-spacing-empty) * 2.5);
     --h4-top-spacing: calc(var(--p-spacing-empty) * 1);
     --h5-top-spacing: var(--p-spacing-empty);
     --h6-top-spacing: var(--p-spacing-empty);
@@ -71,7 +71,7 @@ body {
 
 /* Larger list indent */
 .markdown-rendered .list-bullet {
-    margin-right: 5px;
+    margin-right: 0px;
 }
 
 /* Top spacing per heading level (read mode) */

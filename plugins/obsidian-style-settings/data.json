@@ -14,5 +14,10 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-notion-dark",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-notion-light",
-  "minimal-style@@h2-l": true
+  "minimal-style@@h2-l": true,
+  "minimal-style@@minimal-code-scroll": false,
+  "minimal-style@@code-size": "1em",
+  "minimal-style@@pdf-page-style": "pdf-seamless-on",
+  "minimal-style@@list-indent": 2,
+  "minimal-style@@list-spacing": 0.075
 }

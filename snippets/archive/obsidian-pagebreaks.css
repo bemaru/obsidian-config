@@ -1,6 +1,6 @@
-/**
- Create pagebreaks in exported Obsidian PDFs.
-*/
+/* Purpose: Create pagebreaks in exported Obsidian PDFs.
+ * Ref: https://gist.github.com/liamcain/81679412643690a7cdd13dff4dc909ce
+ */
 
 @media print {
 
