@@ -5,7 +5,7 @@
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 11,
+  "baseFontSize": 13,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "obsidian-pagebraks",
@@ -21,7 +21,8 @@
     "theme-minimal-spacing-fix",
     "obsidian-page-breaks-print",
     "obsidian-theme-minimal-typography",
-    "obsidian-code-block-theme-light"
+    "obsidian-code-block-theme-light",
+    "markdown-image-resize"
   ],
   "accentColor": "#499ac5",
   "showViewHeader": true

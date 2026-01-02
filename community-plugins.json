@@ -1,11 +1,12 @@
 [
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "highlightr-plugin",
   "dataview",
   "obsidian-icon-folder",
   "obsidian-custom-attachment-location",
   "iconic",
   "obsidian-tasks-plugin",
-  "mdfriday"
+  "mdfriday",
+  "editing-toolbar",
+  "highlightr-plugin"
 ]
