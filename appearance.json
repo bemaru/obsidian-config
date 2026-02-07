@@ -1,11 +1,11 @@
 {
   "cssTheme": "Minimal",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSizeAction": true,
-  "baseFontSize": 13,
+  "baseFontSize": 14,
   "nativeMenus": false,
   "enabledCssSnippets": [
     "obsidian-pagebraks",

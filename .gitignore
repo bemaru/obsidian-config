@@ -1,1 +1,4 @@
 workspace.json
+workspace-*.json
+*-DESKTOP-*.json
+*-S5018*.json

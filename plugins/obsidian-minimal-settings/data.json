@@ -8,7 +8,7 @@
   "lineWidth": 58,
   "lineWidthWide": 50,
   "maxWidth": 88,
-  "textNormal": 13,
+  "textNormal": 14,
   "textSmall": 12,
   "imgGrid": true,
   "imgWidth": "img-default-width",
@@ -16,7 +16,7 @@
   "iframeWidth": "iframe-default-width",
   "mapWidth": "map-default-width",
   "chartWidth": "chart-default-width",
-  "colorfulHeadings": false,
+  "colorfulHeadings": true,
   "colorfulFrame": true,
   "colorfulActiveStates": true,
   "trimNames": true,
@@ -28,7 +28,7 @@
   "underlineInternal": false,
   "underlineExternal": false,
   "folding": true,
-  "lineNumbers": false,
+  "lineNumbers": true,
   "readableLineLength": true,
   "devBlockWidth": false
 }
